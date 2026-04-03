@@ -35,7 +35,6 @@ This system allows students to **upload images, apply multiple enhancements, vis
 - PIL / Pillow
 - Matplotlib
 
----
 
 ## How to Run
 
